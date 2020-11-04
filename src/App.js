@@ -5,7 +5,7 @@ function App() {
   return (
     <div >
       <h1 align='center'>
-        Hello World from faisal
+        Hello World from Faisal Khan
       </h1>
     </div>
   );
